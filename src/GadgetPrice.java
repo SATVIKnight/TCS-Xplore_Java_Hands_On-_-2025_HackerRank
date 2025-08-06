@@ -70,3 +70,4 @@ class Gadget{
         this.brand = b;
     }
 }
+
